@@ -105,26 +105,8 @@ Create a `.env.local` file in the project root and add your configuration if nee
 VITE_API_URL=https://your-api-endpoint.com
 ```
 
----
-
-## 💡 Future Improvements
-
-- Add authentication (JWT / Firebase)
-- Integrate backend API for persistent storage
-- Implement dark mode toggle
-- Add charts and analytics dashboard
-
----
+----
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 💖 Author
-
-**Sobia Awan**  
-Built with passion for learning React & CRUD systems.  
-📧 Contact: [your.email@example.com]  
-🌐 Portfolio: [yourwebsite.com]
