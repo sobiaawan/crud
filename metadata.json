@@ -1,0 +1,5 @@
+{
+  "name": "React CRUD Dashboard",
+  "description": "A full-featured CRUD web app with a modern, responsive design that allows users to create, read, update, and delete data seamlessly. It includes a clean dashboard, form validation, and smooth navigation for managing records efficiently.",
+  "requestFramePermissions": []
+}
